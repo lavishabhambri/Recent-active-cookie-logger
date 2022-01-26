@@ -1,4 +1,4 @@
-# Submission by Lavisha Bhambri for Quantcast (Software Engineer Internship 2022)
+# Submission by Lavisha Bhambri
 
 ## Steps to run the code
 1. Download all the files from the github link.
